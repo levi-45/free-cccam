@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Levi45 Free Server 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-15 12:00+0000\n"
+"PO-Revision-Date: 2023-11-15 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Levi45 Free Server"
+msgstr "Levi45 Free Server"
+
+msgid "Download free servers and convert to OSCam format"
+msgstr "Download free servers and convert to OSCam format"
+
+msgid "Select an option"
+msgstr "Select an option"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Convert"
+msgstr "Convert"
+
+msgid "Downloading free servers..."
+msgstr "Downloading free servers..."
+
+msgid "No servers found"
+msgstr "No servers found"
+
+msgid "No servers to convert"
+msgstr "No servers to convert"
+
+msgid "Successfully saved to %s"
+msgstr "Successfully saved to %s"
+
+msgid "Created new config with %d servers at %s"
+msgstr "Created new config with %d servers at %s"
+
+msgid "Error saving file: %s"
+msgstr "Error saving file: %s"
+
+msgid "Downloaded %d servers"
+msgstr "Downloaded %d servers"
+
+msgid "Converted by Levi45 Free Server"
+msgstr "Converted by Levi45 Free Server"
