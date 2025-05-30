@@ -1,1 +1,4 @@
-1.0
+1.1
+Added auto-update feature with changelog support
+Fixed server download issues
+Improved user interface
