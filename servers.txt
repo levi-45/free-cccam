@@ -85,3 +85,7 @@ C: cccam-cs.ddnsgeek.com 13000 cccam-H1 www.cccam-cs.com # v2.1.1-2971
 C: xy.cccamfree.co 15700 s6782dz pt3xa # v2.1.3-3165
 C: free.cccam-premium.pro 15014 zqheb9 cccam-premium.pro
 C: free.cccam-premium.pro 15014 uqs71z cccam-premium.pro
+C: dhoom.org 32000 1dayrs6 2021 # v2.0.11-2892
+C: xy.cccamfrei.com 15700 s3578hs xz4yp # v2.1.3-3165
+C: dhoom.org 31000 1day7q2 2021 # v2.0.11-2892
+C: xy.cccamfrei.com 15700 s3793dz pt6sk # v2.1.3-3165
