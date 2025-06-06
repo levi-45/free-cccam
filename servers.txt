@@ -136,4 +136,8 @@ C: free.cccam-premium.pro 15014 a22uo7 cccam-premium.pro # vr100rc30-2892
 C: free.cccam-premium.pro 15014 buasq2 cccam-premium.pro # vr100rc30-2892
 C: t2.cccambird.com 12128 44765917 cccambird # vr100rc16-2892
 C: cccam4allsat.giize.com 15000 cccam-Gsx cccam4sat.com # v2.1.1-2971
-C: gen.cccam-tv.com 9204 B20aef5ce free2024 # v2.1.1-2971 
+C: gen.cccam-tv.com 9204 B20aef5ce free2024 # v2.1.1-2971
+C: free.cccamia.com 18000 405dxf CCcamia.com # v2.3.0-3367
+C: cccam-cs.ddnsgeek.com 13000 cccam-X3 www.cccam-cs.com # v2.1.1-2971
+C: cccam4allsat.giize.com 15000 cccam-LN1 cccam4sat.com # v2.1.1-2971
+C: cccam4hd.casacam.net 15000 cccam-LN1 cccam4sat.com # v2.1.1-2971  
