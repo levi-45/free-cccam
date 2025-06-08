@@ -141,4 +141,16 @@ C: free.cccamia.com 18000 405dxf CCcamia.com # v2.3.0-3367
 C: cccam-cs.ddnsgeek.com 13000 cccam-X3 www.cccam-cs.com # v2.1.1-2971
 C: cccam4allsat.giize.com 15000 cccam-LN1 cccam4sat.com # v2.1.1-2971
 C: cccam4hd.casacam.net 15000 cccam-LN1 cccam4sat.com # v2.1.1-2971
- C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892 
+C: servoscam.com 12100 674004 191462 # v2.3.0-3367
+C: servoscam.com 12100 161609 222556 # v2.3.0-3367
+C: servoscam.com 12100 488054 914805 # v2.3.0-3367
+C: servoscam.com 12100 507554 935905 # v2.3.0-3367
+C: servoscam.com 12100 873316 103665 # v2.3.0-3367
+C: free.cccamia.com 18000 3igfgy CCcamia.com # v2.3.0-3367
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892 
+C: dhoom.org 32000 1daywre 2021 # v2.0.11-2892
+C: servoscam.com 21133 8746653 servoscam.com # v2.0.11-2892
+C: cccam-cs.ddnsgeek.com 13000 cccam-X3 www.cccam-cs.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 14000 CCcam-reshare www.cardsharing-sat.com # v2.1.1-2971
+C: dhoom.org 31000 1dayux9 2021 # v2.0.11-2892   
