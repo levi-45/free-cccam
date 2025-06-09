@@ -41,4 +41,11 @@ C: cardsharing-sat.camdvr.org 14000 CCcam-reshare www.cardsharing-sat.com # v2.1
 C: dhoom.org 31000 1dayux9 2021 # v2.0.11-2892 
 C: cccam-cs.ddnsgeek.com 13000 cccam-9X www.cccam-cs.com # v2.1.1-2971
 C: t2.cccambird.com 11215 37860752 cccambird # vr100rc16-2892
-C: free.cccam-premium.pro 15014 8a6bdo cccam-premium.pro # vr100rc30-2892  
+C: free.cccam-premium.pro 15014 8a6bdo cccam-premium.pro # vr100rc30-2892
+C: clinehub.com 26000 396843 453892 # v2.0.11-2892
+C: clinehub.com 26000 503518 159927 # v2.0.11-2892
+C: clinehub.com 26000 490897 964259 # v2.0.11-2892
+C: clinehub.com 16000 820639 515480 # v2.0.11-2892
+C: clinehub.com 16000 193110 507293 # v2.0.11-2892
+C: mecasatelite.dyndns.tv 20451 13manu 13manu # v2.2.1-3316
+  
