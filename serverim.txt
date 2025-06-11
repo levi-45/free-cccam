@@ -1,0 +1,72 @@
+C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
+N: test.servoscam.com 8084 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:4,8,c,10
+N: test.servoscam.com 8083 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:4,10
+N: test.servoscam.com 8082 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0
+N: test.servoscam.com 8081 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0
+N: test.servoscam.com 8079 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4afc:0
+N: test.servoscam.com 8080 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1805:0
+N: test.servoscam.com 8078 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
+N: test.servoscam.com 8077 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1819:0,3311
+N: test.servoscam.com 8076 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1811:3311,0
+N: test.servoscam.com 8075 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: test.servoscam.com 8074 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
+N: test.servoscam.com 8073 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d06:
+N: test.servoscam.com 8072 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20a00,30a00
+N: test.servoscam.com 8071 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d0f:4,8,c,10
+N: test.servoscam.com 8070 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0652:0,15,ffff
+N: test.servoscam.com 8069 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:30600,40600
+N: test.servoscam.com 8068 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1835:0,401,1103
+N: test.servoscam.com 8066 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
+N: test.servoscam.com 8067 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: test.servoscam.com 8064 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0602:0
+N: test.servoscam.com 8065 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:43800
+N: test.servoscam.com 8063 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d07:0
+N: test.servoscam.com 8061 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092b:0
+N: test.servoscam.com 8062 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d08:0
+N: test.servoscam.com 8060 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42300
+N: test.servoscam.com 8059 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0
+N: test.servoscam.com 8058 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: test.servoscam.com 8057 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0,32500,41700,42200,42700,43800
+N: test.servoscam.com 8056 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0
+N: test.servoscam.com 8055 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
+N: test.servoscam.com 8053 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:0,48,c,10
+N: test.servoscam.com 8054 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: test.servoscam.com 8052 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d03:4,8,24,28
+N: test.servoscam.com 8051 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 093e:0
+N: test.servoscam.com 8050 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 090f:0
+N: test.servoscam.com 8049 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: test.servoscam.com 8048 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0,3411
+N: test.servoscam.com 8047 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,3411,3511
+N: test.servoscam.com 8045 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: test.servoscam.com 8046 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0654:0,1,5
+N: test.servoscam.com 8044 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:23800,40810
+N: test.servoscam.com 8043 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20800,20810,20820,42800
+N: test.servoscam.com 8042 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
+N: test.servoscam.com 8041 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4ae1:0,14
+N: test.servoscam.com 8039 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0603:0
+N: test.servoscam.com 8040 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,7001,7101
+N: test.servoscam.com 8038 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42400
+N: test.servoscam.com 8037 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0622:0,1
+N: test.servoscam.com 8036 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
+C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
+C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
+N: cardserver-sat.camdvr.org 37000 d8d6oepr cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
+N: cardserver-sat.camdvr.org 37000 062lytlm cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 viwct0w8 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 iglr3fr3 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 d8d6oepr cardserver-sat.com # v2.1.1-2971
+N: cardserver-sat.camdvr.org 37000 e9m2wpdp cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 amhsrvpb cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: cardserver-sat.camdvr.org 27000 062lytlm cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 viwct0w8 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 iglr3fr3 cardserver-sat.com # v2.1.1-2971
+N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: cardserver-sat.camdvr.org 27000 5e97duny cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 rcxmnait cardserver-sat.com # v2.1.1-2971
+N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: cardserver-sat.camdvr.org 27000 amhsrvpb cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 e9m2wpdp cardserver-sat.com # v2.1.1-2971 
