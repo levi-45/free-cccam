@@ -1,4 +1,3 @@
-C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
 N: test.servoscam.com 8084 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:4,8,c,10
 N: test.servoscam.com 8083 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:4,10
 N: test.servoscam.com 8082 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0
@@ -48,25 +47,13 @@ N: test.servoscam.com 8040 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 
 N: test.servoscam.com 8038 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42400
 N: test.servoscam.com 8037 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0622:0,1
 N: test.servoscam.com 8036 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
-C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
-C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
 N: cardserver-sat.camdvr.org 37000 d8d6oepr cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
 N: cardserver-sat.camdvr.org 37000 062lytlm cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 viwct0w8 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 iglr3fr3 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 d8d6oepr cardserver-sat.com # v2.1.1-2971
 N: cardserver-sat.camdvr.org 37000 e9m2wpdp cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 amhsrvpb cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 062lytlm cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 viwct0w8 cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 iglr3fr3 cardserver-sat.com # v2.1.1-2971
 N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 5e97duny cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 rcxmnait cardserver-sat.com # v2.1.1-2971
 N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 amhsrvpb cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 e9m2wpdp cardserver-sat.com # v2.1.1-2971 
