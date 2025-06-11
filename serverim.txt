@@ -57,3 +57,4 @@ N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06
 N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+
