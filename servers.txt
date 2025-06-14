@@ -83,125 +83,6 @@ C: cardserver-sat.camdvr.org 27000 e9m2wpdp cardserver-sat.com # v2.1.1-2971
 C: free.cccamiptv.club 13000 qweuj3 cccamiptv.tv # v2.3.0-3367
 C: cccam-cs.ddnsgeek.com 13000 cccam-9Xe www.cccam-cs.com # v2.1.1-2971 
 C: cccam.ugeen.live 28000 54517 ugeen # v2.0.11-2892
-N: test.servoscam.com 17086 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0,68
-N: test.servoscam.com 8084 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:4,8,c,10
-N: test.servoscam.com 8083 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:4,10
-N: test.servoscam.com 8082 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0
-N: test.servoscam.com 8081 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0
-N: test.servoscam.com 8080 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1805:0
-N: test.servoscam.com 8079 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4afc:0
-N: test.servoscam.com 8078 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
-N: test.servoscam.com 8077 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1819:0,3311
-N: test.servoscam.com 8076 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1811:3311,0
-N: test.servoscam.com 8075 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8074 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8073 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d06:
-N: test.servoscam.com 8072 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20a00,30a00
-N: test.servoscam.com 8071 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d0f:4,8,c,10
-N: test.servoscam.com 8070 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0652:0,15,ffff
-N: test.servoscam.com 8069 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:30600,40600
-N: test.servoscam.com 8068 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1835:0,401,1103
-N: test.servoscam.com 8067 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8066 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
-N: test.servoscam.com 8065 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:43800
-N: test.servoscam.com 8064 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0602:0
-N: test.servoscam.com 8063 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d07:0
-N: test.servoscam.com 8062 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d08:0
-N: test.servoscam.com 8061 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092b:0
-N: test.servoscam.com 8060 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42300
-N: test.servoscam.com 8059 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0
-N: test.servoscam.com 8058 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8057 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0,32500,41700,42200,42700,43800
-N: test.servoscam.com 8056 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0
-N: test.servoscam.com 8055 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8054 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8053 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:0,48,c,10
-N: test.servoscam.com 8052 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d03:4,8,24,28
-N: test.servoscam.com 8051 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 093e:0
-N: test.servoscam.com 8050 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 090f:0
-N: test.servoscam.com 8049 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8048 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0,3411
-N: test.servoscam.com 8047 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,3411,3511
-N: test.servoscam.com 8045 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8046 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0654:0,1,5
-N: test.servoscam.com 8044 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:23800,40810
-N: test.servoscam.com 8043 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20800,20810,20820,42800
-N: test.servoscam.com 8042 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8041 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4ae1:0,14
-N: test.servoscam.com 8040 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,7001,7101
-N: test.servoscam.com 8039 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0603:0
-N: test.servoscam.com 8038 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42400
-N: test.servoscam.com 8037 824136 872202 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0622:0,1
-C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
-N: test.servoscam.com 8084 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:4,8,c,10
-N: test.servoscam.com 8083 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:4,10
-N: test.servoscam.com 8082 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0
-N: test.servoscam.com 8081 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0
-N: test.servoscam.com 8079 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4afc:0
-N: test.servoscam.com 8080 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1805:0
-N: test.servoscam.com 8078 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
-N: test.servoscam.com 8077 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1819:0,3311
-N: test.servoscam.com 8076 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1811:3311,0
-N: test.servoscam.com 8075 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8074 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8073 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d06:
-N: test.servoscam.com 8072 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20a00,30a00
-N: test.servoscam.com 8071 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d0f:4,8,c,10
-N: test.servoscam.com 8070 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0652:0,15,ffff
-N: test.servoscam.com 8069 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:30600,40600
-N: test.servoscam.com 8068 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1835:0,401,1103
-N: test.servoscam.com 8066 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
-N: test.servoscam.com 8067 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8064 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0602:0
-N: test.servoscam.com 8065 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:43800
-N: test.servoscam.com 8063 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d07:0
-N: test.servoscam.com 8061 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092b:0
-N: test.servoscam.com 8062 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d08:0
-N: test.servoscam.com 8060 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42300
-N: test.servoscam.com 8059 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0
-N: test.servoscam.com 8058 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8057 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0,32500,41700,42200,42700,43800
-N: test.servoscam.com 8056 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:0
-N: test.servoscam.com 8055 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8053 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:0,48,c,10
-N: test.servoscam.com 8054 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: test.servoscam.com 8052 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d03:4,8,24,28
-N: test.servoscam.com 8051 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 093e:0
-N: test.servoscam.com 8050 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 090f:0
-N: test.servoscam.com 8049 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8048 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0,3411
-N: test.servoscam.com 8047 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,3411,3511
-N: test.servoscam.com 8045 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: test.servoscam.com 8046 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0654:0,1,5
-N: test.servoscam.com 8044 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:23800,40810
-N: test.servoscam.com 8043 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20800,20810,20820,42800
-N: test.servoscam.com 8042 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:0
-N: test.servoscam.com 8041 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4ae1:0,14
-N: test.servoscam.com 8039 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0603:0
-N: test.servoscam.com 8040 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,7001,7101
-N: test.servoscam.com 8038 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42400
-N: test.servoscam.com 8037 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0622:0,1
-N: test.servoscam.com 8036 333413 995005 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
-C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
-C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
-N: cardserver-sat.camdvr.org 37000 d8d6oepr cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
-N: cardserver-sat.camdvr.org 37000 062lytlm cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 viwct0w8 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 iglr3fr3 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 d8d6oepr cardserver-sat.com # v2.1.1-2971
-N: cardserver-sat.camdvr.org 37000 e9m2wpdp cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 amhsrvpb cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 062lytlm cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 viwct0w8 cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 iglr3fr3 cardserver-sat.com # v2.1.1-2971
-N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-C: cardserver-sat.camdvr.org 27000 5e97duny cardserver-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 27000 rcxmnait cardserver-sat.com # v2.1.1-2971
-N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 C: cardserver-sat.camdvr.org 27000 amhsrvpb cardserver-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 e9m2wpdp cardserver-sat.com # v2.1.1-2971
 C: egygold.co 22504 60hycam270 merz10 # v2.1.1-2971
@@ -212,4 +93,85 @@ C: egygold.co 22504 60hycam243 merz38 # v2.1.1-2971
 C: egygold.co 22504 60hycam270 merz01 # v2.1.1-2971
 C: egygold.co 22504 60hycam244 merz18 # v2.1.1-2971
 C: fox.e1.ooguy.com 12000 livesport freecccamfox # v2.3.2-4000
-C: sat-sharing.camdvr.org 17000 forum-Via3 www.sat-sharing.org # v2.1.1-2971    
+C: sat-sharing.camdvr.org 17000 forum-Via3 www.sat-sharing.org # v2.1.1-2971 
+C: cardserver-sat.camdvr.org 27000 5e97duny cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 rcxmnait cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 062lytlm cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 viwct0w8 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 iglr3fr3 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 d8d6oepr cardserver-sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
+C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
+C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
+C: gen.cccam-tv.com 9204 B23b44a20 free2024 # v2.1.1-2971
+C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
+C: t2.cccambird.com 12128 66191738 cccambird # vr100rc16-2892
+C: s2.cccampri.me 12965 00313423 cccampri # vr100rc16-2892
+C: dhoom.org 32000 1day1dp 2021 # v2.0.11-2892
+C: kinghd.info 35500 kingd628 hd785b # v2.0.11-2892
+C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
+C: free.cccam-premium.pro 15014 ucy2jc cccam-premium.pro # vr100rc30-3367
+C: free.cccamia.com 18000 qa9x1z CCcamia.com # v2.3.0-3367
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
+C: cccamfree.camdvr.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
+C: cccam4sat.accesscam.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971 
+N: cccam4sat.accesscam.org 9201 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09bd:0
+N: cccam4sat.accesscam.org 9204 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
+N: cccam4sat.accesscam.org 9202 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
+N: cccam4sat.accesscam.org 9205 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:6a
+N: cccam4sat.accesscam.org 9203 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1814:0,7,5211,5221,5225
+N: cccam4sat.accesscam.org 9206 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,3411,3511,8011
+N: cccam4sat.accesscam.org 9207 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:0,4,8,10,c
+N: cccam4sat.accesscam.org 9208 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,1,7001,7101
+N: cccam4sat.accesscam.org 9209 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:65,68
+N: cccam4sat.accesscam.org 9210 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09c7:0
+N: cccam4sat.accesscam.org 9211 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183d:0
+N: cccam4sat.accesscam.org 9212 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50800,50810,60200,60210
+N: cccam4sat.accesscam.org 9213 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: cccam4sat.accesscam.org 9214 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: cccam4sat.accesscam.org 9215 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20a00,20a10,20a20,20a30,20a40,fff710,22e00,22e10
+N: cccam4sat.accesscam.org 9216 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: cccam4sat.accesscam.org 9217 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4aee:0
+N: cccam4sat.accesscam.org 9218 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1880:0,2011,2111,2113
+N: cccam4sat.accesscam.org 9219 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d97:0,58,a0,a4,a8,80,88,8c,8a,4,8,c,10
+N: cccam4sat.accesscam.org 9220 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:0,4,8,c,10,48
+N: cccam4sat.accesscam.org 9221 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: cccam4sat.accesscam.org 9222 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 9223 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0629:0
+N: cccam4sat.accesscam.org 9224 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: cccam4sat.accesscam.org 9225 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
+N: cccam4sat.accesscam.org 9226 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092b:0
+N: cccam4sat.accesscam.org 9227 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b02:0
+N: cccam4sat.accesscam.org 9228 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:51a00,23a10,51a40
+N: cccam4sat.accesscam.org 9229 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0963:0
+N: cccam4sat.accesscam.org 9230 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:41950
+N: cccam4sat.accesscam.org 9231 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1817:0
+N: cccam4sat.accesscam.org 9232 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 091f:0
+N: cccam4sat.accesscam.org 9233 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0,5411
+N: cccam4sat.accesscam.org 9234 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
+N: cccam4sat.accesscam.org 9235 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1813:68
+N: cccam4sat.accesscam.org 9237 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0,7001,7101
+N: cccam4sat.accesscam.org 9236 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:6c
+N: cccam4sat.accesscam.org 9238 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:43800
+N: cccam4sat.accesscam.org 9239 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,aa80,aa81
+N: cccam4sat.accesscam.org 9241 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:30b00
+N: cccam4sat.accesscam.org 9240 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0
+N: cccam4sat.accesscam.org 9242 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 090d:0
+N: cccam4sat.accesscam.org 9243 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: cccam4sat.accesscam.org 9244 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: cccam4sat.accesscam.org 9245 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1884:0,68
+N: cccam4sat.accesscam.org 9246 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098e:0
+N: cccam4sat.accesscam.org 9247 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0624:0
+N: cardserver-sat.camdvr.org 37000 d8d6oepr cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 062lytlm cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 viwct0w8 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 iglr3fr3 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 e9m2wpdp cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 amhsrvpb cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+  
