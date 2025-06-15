@@ -116,7 +116,21 @@ C: free.cccam-premium.pro 15014 ucy2jc cccam-premium.pro # vr100rc30-3367
 C: free.cccamia.com 18000 qa9x1z CCcamia.com # v2.3.0-3367
 C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
 C: cccamfree.camdvr.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
-C: cccam4sat.accesscam.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971 
+C: cccam4sat.accesscam.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
+C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: 109.169.71.6 1003 947gowur efxnho0q # v2.1.1-2971
+C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
+C: sat-sharing.camdvr.org 17000 forum-Via3 www.sat-sharing.org # v2.1.1-2971
+C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
+C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
+C: gen.cccam-tv.com 9204 B50eaef05 free2024 # v2.1.1-2971
+C: t2.cccambird.com 12128 72443726 cccambird # vr100rc16-2892
+C: s2.cccampri.me 12965 85783556 cccampri # vr100rc16-2892
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: dhoom.org 32000 1dayw75 2021 # v2.0.11-2892
+C: free.cccamiptv.club 13000 8o7rpm cccamiptv.tv # v2.3.0-3367
+C: free.cccam-premium.pro 15014 hfbaas cccam-premium.pro # vr100rc30-3367  
 N: cccam4sat.accesscam.org 9201 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09bd:0
 N: cccam4sat.accesscam.org 9204 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
 N: cccam4sat.accesscam.org 9202 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
