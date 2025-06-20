@@ -139,7 +139,23 @@ C: sat-sharing.camdvr.org 17000 forum-tv7 www.sat-sharing.org # v2.1.1-2971
 C: cardserver-sat.camdvr.org 12000 Card_sat cardserver-sat.com # v2.1.1-2971
 C: cardsharing-sat.gleeze.com 14000 cam-reshare www.cardsharing-sat.com # v2.1.1-2971
 C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
-C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892 
+C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
+C: cardserver-sat.camdvr.org 27000 wj582bk6 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 6fi3l6bw cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 2rdtgcmi cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 gvwaf8ek cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 op19qrhd cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 3tlppnag cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 bnpo17c9 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 xle4am84 cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 kj3jk23y cardserver-sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 27000 jhtncqf1 cardserver-sat.com # v2.1.1-2971
+C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: cccam4cs.ooguy.com 13000 cccam-9R www.cccam-cs.com # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
 N: cccam4sat.accesscam.org 9201 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09bd:0
 N: cccam4sat.accesscam.org 9204 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
 N: cccam4sat.accesscam.org 9202 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
