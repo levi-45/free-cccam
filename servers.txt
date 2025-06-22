@@ -156,6 +156,11 @@ C: cccam4cs.ooguy.com 13000 cccam-9R www.cccam-cs.com # v2.1.1-2971
 C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
 C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
 C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
+C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
+C: cardserver-sat.camdvr.org 12000 Card_sat5 cardserver-sat.com # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: cccam4cs.ooguy.com 13000 cccam-Zz www.cccam-cs.com # v2.1.1-2971
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
 N: cccam4sat.accesscam.org 9201 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09bd:0
 N: cccam4sat.accesscam.org 9204 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
 N: cccam4sat.accesscam.org 9202 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
