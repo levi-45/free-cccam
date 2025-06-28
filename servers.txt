@@ -41,7 +41,6 @@ C: cardsharing-sat.camdvr.org 14000 CCcam-reshare www.cardsharing-sat.com # v2.1
 C: dhoom.org 31000 1dayux9 2021 # v2.0.11-2892 
 C: cccam-cs.ddnsgeek.com 13000 cccam-9X www.cccam-cs.com # v2.1.1-2971
 C: t2.cccambird.com 11215 37860752 cccambird # vr100rc16-2892
-C: free.cccam-premium.pro 15014 8a6bdo cccam-premium.pro # vr100rc30-2892
 C: clinehub.com 26000 396843 453892 # v2.0.11-2892
 C: clinehub.com 26000 503518 159927 # v2.0.11-2892
 C: clinehub.com 26000 490897 964259 # v2.0.11-2892
@@ -50,7 +49,6 @@ C: clinehub.com 16000 193110 507293 # v2.0.11-2892
 C: mecasatelite.dyndns.tv 20451 13manu 13manu # v2.2.1-3316
 C: free.cccamiptv.club 13000 b7ysm9 cccamiptv.tv # v2.3.0-3367
 C: s2.cccampri.me 11922 30802909 cccampri # vr100rc16-2892
-C: free.cccam-premium.pro 15014 42n6fs cccam-premium.pro # vr100rc30-2892
 C: 84.72.142.157 19730 Belu_CH 29_01_9912 # v2.0.11-2892
 C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
 C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
@@ -112,7 +110,6 @@ C: s2.cccampri.me 12965 00313423 cccampri # vr100rc16-2892
 C: dhoom.org 32000 1day1dp 2021 # v2.0.11-2892
 C: kinghd.info 35500 kingd628 hd785b # v2.0.11-2892
 C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
-C: free.cccam-premium.pro 15014 ucy2jc cccam-premium.pro # vr100rc30-3367
 C: free.cccamia.com 18000 qa9x1z CCcamia.com # v2.3.0-3367
 C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
 C: cccamfree.camdvr.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
@@ -130,7 +127,6 @@ C: s2.cccampri.me 12965 85783556 cccampri # vr100rc16-2892
 C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
 C: dhoom.org 32000 1dayw75 2021 # v2.0.11-2892
 C: free.cccamiptv.club 13000 8o7rpm cccamiptv.tv # v2.3.0-3367
-C: free.cccam-premium.pro 15014 hfbaas cccam-premium.pro # vr100rc30-3367
 C: cccam4cs.ooguy.com 13000 cccam-9Y www.cccam-cs.com # v2.1.1-2971
 C: egygold.eu 14002 dla-poland test # v2.3.2-4000
 C: storesat.xyz 45003 storesat FsZ$oUnLn#Mx5W # v2.0.11-2892
@@ -161,61 +157,87 @@ C: cardserver-sat.camdvr.org 12000 Card_sat5 cardserver-sat.com # v2.1.1-2971
 C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
 C: cccam4cs.ooguy.com 13000 cccam-Zz www.cccam-cs.com # v2.1.1-2971
 C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
-N: cccam4sat.accesscam.org 9201 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09bd:0
-N: cccam4sat.accesscam.org 9204 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
-N: cccam4sat.accesscam.org 9202 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092f:0
-N: cccam4sat.accesscam.org 9205 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:6a
-N: cccam4sat.accesscam.org 9203 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1814:0,7,5211,5221,5225
-N: cccam4sat.accesscam.org 9206 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,3411,3511,8011
-N: cccam4sat.accesscam.org 9207 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:0,4,8,10,c
-N: cccam4sat.accesscam.org 9208 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,1,7001,7101
-N: cccam4sat.accesscam.org 9209 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:65,68
-N: cccam4sat.accesscam.org 9210 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09c7:0
-N: cccam4sat.accesscam.org 9211 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183d:0
-N: cccam4sat.accesscam.org 9212 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50800,50810,60200,60210
-N: cccam4sat.accesscam.org 9213 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: cccam4sat.accesscam.org 9214 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: cccam4sat.accesscam.org 9215 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:20a00,20a10,20a20,20a30,20a40,fff710,22e00,22e10
-N: cccam4sat.accesscam.org 9216 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: cccam4sat.accesscam.org 9217 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4aee:0
-N: cccam4sat.accesscam.org 9218 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1880:0,2011,2111,2113
-N: cccam4sat.accesscam.org 9219 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d97:0,58,a0,a4,a8,80,88,8c,8a,4,8,c,10
-N: cccam4sat.accesscam.org 9220 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96:0,4,8,c,10,48
-N: cccam4sat.accesscam.org 9221 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: cccam4sat.accesscam.org 9222 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cccam4sat.accesscam.org 9223 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0629:0
-N: cccam4sat.accesscam.org 9224 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: cccam4sat.accesscam.org 9225 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
-N: cccam4sat.accesscam.org 9226 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 092b:0
-N: cccam4sat.accesscam.org 9227 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b02:0
-N: cccam4sat.accesscam.org 9228 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:51a00,23a10,51a40
-N: cccam4sat.accesscam.org 9229 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0963:0
-N: cccam4sat.accesscam.org 9230 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:41950
-N: cccam4sat.accesscam.org 9231 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1817:0
-N: cccam4sat.accesscam.org 9232 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 091f:0
-N: cccam4sat.accesscam.org 9233 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 183e:0,5411
-N: cccam4sat.accesscam.org 9234 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
-N: cccam4sat.accesscam.org 9235 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1813:68
-N: cccam4sat.accesscam.org 9237 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0,7001,7101
-N: cccam4sat.accesscam.org 9236 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:6c
-N: cccam4sat.accesscam.org 9238 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:43800
-N: cccam4sat.accesscam.org 9239 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0,aa80,aa81
-N: cccam4sat.accesscam.org 9241 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:30b00
-N: cccam4sat.accesscam.org 9240 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0
-N: cccam4sat.accesscam.org 9242 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 090d:0
-N: cccam4sat.accesscam.org 9243 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
-N: cccam4sat.accesscam.org 9244 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
-N: cccam4sat.accesscam.org 9245 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1884:0,68
-N: cccam4sat.accesscam.org 9246 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098e:0
-N: cccam4sat.accesscam.org 9247 nlinee3 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0624:0
-N: cardserver-sat.camdvr.org 37000 d8d6oepr cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 062lytlm cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 viwct0w8 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 iglr3fr3 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 e9m2wpdp cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 amhsrvpb cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 5e97duny cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 rcxmnait cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 4c1b5j01 cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-N: cardserver-sat.camdvr.org 37000 qapqeyuv cardserver-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
-  
+C: 31.40.218.2 1003 3077 3077 # v2.1.1-2971
+C: 31.40.218.2 13000 3077 3077 # v2.1.1-2971
+C: 84.72.142.157 19730 Belu_CH 29_01_9912 # v2.0.11-2892
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
+C: 193.34.144.135 53053 bokipan GEOFORUM # v2.0.11-2892
+C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
+C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
+C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
+C: 109.169.71.6 1003 947gowur efxnho0q # v2.1.1-2971
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: 194.163.153.145 14000 ccam-reshare www.cardsharing-sat.com # v2.1.1-2971
+C: 51.178.9.248 10500 9889098765 9889098765 # v2.0.11-2892
+C: smart4k.us 12500 178334 577927 # v2.3.2-4000
+C: smart4k.us 12500 786002 878259 # v2.3.2-4000
+C: smart4k.us 12500 609782 296442 # v2.3.2-4000
+C: smart4k.us 12500 594428 616901 # v2.3.2-4000
+C: smart4k.us 12500 146395 119174 # v2.3.2-4000
+C: visioneuro.sytes.net 13090 visioneuro2025 visioneuro.net # v2.0.11-2892
+C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
+C: 31.40.218.2 1003 3077 3077 # v2.1.1-2971
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: 84.72.142.157 19730 Belu_CH 29_01_9912 # v2.0.11-2892
+C: 31.40.218.2 13000 3077 3077 # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: free.cccamiptv.club 13000 s9liib cccamiptv.tv # v2.3.0-3367
+C: 162.55.62.93 37900 1122867 1122867 # v2.0.11-2892
+C: 162.55.62.93 37900 1122866 1122866 # v2.0.11-2892
+C: 162.55.62.93 37900 1122868 1122868 # v2.0.11-2892
+C: 162.55.62.93 37900 1122869 1122869 # v2.0.11-2892
+C: 162.55.62.93 37900 1122865 1122865 # v2.0.11-2892
+C: 162.55.62.93 37900 1122864 1122864 # v2.0.11-2892
+C: 162.55.62.93 37900 1122863 1122863 # v2.0.11-2892
+C: cccam4cs.ooguy.com 23000 isyebcl www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 kfm0cq6 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 283535o www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 23wk9l3 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 u3k0mwt www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 nh427gj www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 11bciev www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 yteq904 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 bnd5h9i www.cccam-cs.com # v2.1.1-2971 
+N: cccam4cs.ooguy.com 33000 nh427gj www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: 31.40.218.2 3002 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4ae1:0
+N: 31.40.218.2 3001 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50c00,60a00
+N: 31.40.218.2 3015 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
+N: 31.40.218.2 3014 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d02:0,a0,a4,a8
+N: 31.40.218.2 3013 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09c4:0
+N: 31.40.218.2 3011 3077 3077 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1833:0
+N: my-tv.biz 4051 USA--Europe--ISRAEL Holocaust_Kids 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00
+N: 185.129.103.22 6001 652866877 33454953 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200
+N: server52.biz 6011 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
+N: server52.biz 6019 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1813:68,0
+N: server52.biz 6020 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0
+N: server52.biz 6001 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200
+N: server52.biz 6017 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1838:0
+N: server52.biz 6013 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d97:4
+N: server52.biz 6003 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1879:0
+N: server52.biz 6012 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0624:0
+N: server52.biz 6016 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1861:0
+N: server52.biz 6004 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0602:0
+N: server52.biz 6015 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1830:0
+N: server52.biz 6005 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00:0
+N: server52.biz 6014 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 09c7:0
+N: 51.15.46.243 10051 64 64 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: my-tv.biz 10093 11 11 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: 51.15.46.243 9014 14 14 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
+N: 51.15.46.243 9000 USA--Europe--ISRAEL KILLERS_Child 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: seikowatch.zapto.org 9786 tivusat sattiv98 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0,4801,4901
+N: my-tv.biz 4002 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
+N: s14.torbrand.tv 704 Kentucky Kentucky 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: s7.torbrand.tv 704 bufon55555 04122008 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: my-tv.biz 4050 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,60a00,60c00
+N: 51.15.46.243 10200 64 64 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:41200,42300,50b00,50f00,60a00,60c00
+N: my-tv.biz 9112 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
+N: my-tv.biz 9114 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
+N: 51.15.46.243 9000 64 64 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: my-tv.biz 4040 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:40610,60a00,60c00
+N: my-tv.biz 4000 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,60a00,60c00
+N: 51.15.46.243 4004 USA--Europe--ISRAEL Holocaust_Kids 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
+N: 151.115.73.226 3567 oig98ybjkf 0983434h 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1814:0,5211,5221
