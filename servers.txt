@@ -221,7 +221,30 @@ C: free.cccamia.com 18000 tp7pns CCcamia.com # v2.3.0-3367
 C: 193.34.144.135 53053 bokipan GeoForum # v2.0.11-2892
 C: sat-sharing.camdvr.org 27000 lkrenc2 www.sat-sharing.org # v2.1.1-2971
 C: 162.55.62.93 37900 1122863 1122863 # v2.0.11-2892
- C: cccam4sat.accesscam.org 15000 ss-cccam cccam4sat.com # v2.1.1-2971 
+C: cccam4sat.accesscam.org 15000 ss-cccam cccam4sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 35jwtv cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 wwbbeu cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 lqs6e7 cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 k5cubc cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 tofce7 cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 7a22qn cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 0qebh3 cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 fb1nmp cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 y0l9o8 cardsharing-sat.com # v2.1.1-2971
+C: smart4k.us 18002 28463019 67646071 # v2.0.11-2892
+C: 185.233.16.62 51004 sviphf00797 92523853 # v2.0.11-2892
+C: cardsharing-sat.camdvr.org 24000 b17ryx cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.camdvr.org 24000 jrjamr cardsharing-sat.com # v2.1.1-2971
+N: cardsharing-sat.gleeze.com 34000 7a22qn cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 lqs6e7 cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 wwbbeu cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 35jwtv cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 tofce7 cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 0qebh3 cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 fb1nmp cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 b17ryx cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 y0l9o8 cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cardsharing-sat.gleeze.com 34000 jrjamr cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0 
 N: sat-sharing.camdvr.org 37000 411bbl0 www.sat-sharing.org 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: sat-sharing.camdvr.org 37000 7bbdg3j www.sat-sharing.org 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: sat-sharing.camdvr.org 37000 4tyj6pd www.sat-sharing.org 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
