@@ -238,6 +238,34 @@ C: cardsharing-sat.camdvr.org 24000 jrjamr cardsharing-sat.com # v2.1.1-2971
 C: test.gscccam.com 16001 60291534 730196 # v2.0.11-2892
 C: clinehub.com 26000 848628 951972 # v2.0.11-2892
 C: free.cccam-premium.pro 15014 kzusrs cccam-premium.pro # vr100rc30-3367
+C: cccam4cs.ooguy.com 23000 hg23x49 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 eyo8nq3 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 xk4p5kl www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 f5q0smp www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 95999gl www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 wph35dr www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 kk88kt0 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 uvuvd0t www.cccam-cs.com # v2.1.1-2971
+C: gen.cccam-tv.com 9204 Becc224a5 free2024 # v2.1.1-2971
+C: 162.55.62.93 37900 1133335 1133335 # v2.0.11-2892
+C: 162.55.62.93 37900 1133332 1133332 # v2.0.11-2892
+C: 162.55.62.93 37900 1133336 1133336 # v2.0.11-2892
+C: t2.cccambird.com 12128 37374195 cccambird # vr100rc16-2892
+C: 162.55.62.93 37900 1133331 1133331 # v2.0.11-2892
+C: free.cccamiptv.club 13000 j1shzu cccamiptv.tv # v2.3.0-3367
+C: free.cccamia.com 18000 ezcm2z CCcamia.com # v2.3.0-3367
+C: cccam4cs.ooguy.com 23000 wtxmj26 www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 23000 qdr0mrh www.cccam-cs.com # v2.1.1-2971
+N: cccam4cs.ooguy.com 33000 f5q0smp www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 hg23x49 www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 xk4p5kl www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 eyo8nq3 www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 95999gl www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 wph35dr www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 uvuvd0t www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 kk88kt0 www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 wtxmj26 www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4cs.ooguy.com 33000 qdr0mrh www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardsharing-sat.gleeze.com 34000 7a22qn cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardsharing-sat.gleeze.com 34000 lqs6e7 cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cardsharing-sat.gleeze.com 34000 wwbbeu cardsharing-sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
