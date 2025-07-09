@@ -2,7 +2,6 @@ C: cardsharing-sat.gleeze.com 14000 CCcam-reshare www.cardsharing-sat.com # v2.1
 C: cardsharing-sat.camdvr.org 14000 CCcam-reshare www.cardsharing-sat.com # v2.1.1-2971
 C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
 C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
-C: cccamfree.camdvr.org 15000 cccam-N1 cccam4sat.com # v2.1.1-2971
 C: cccam4hd.casacam.net 15000 cccam-N1 cccam4sat.com # v2.1.1-2971
 C: cccam4sat.accesscam.org 15000 cccam-N1 cccam4sat.com # v2.1.1-2971
 C: free.cccamiptv.club 13000 yr78m8 cccamiptv.tv # v2.3.0-3367
@@ -66,7 +65,6 @@ C: test.servoscam.com 62000 109708 467718 # v2.0.11-2892
 C: test.servoscam.com 61100 960094 935238 # v2.0.11-2892
 C: cccam-cs.ddnsgeek.com 13000 cccam-9Xe www.cccam-cs.com # v2.1.1-2971
 C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
-C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
 C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
@@ -99,7 +97,6 @@ C: cardserver-sat.camdvr.org 27000 viwct0w8 cardserver-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 iglr3fr3 cardserver-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 qapqeyuv cardserver-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 d8d6oepr cardserver-sat.com # v2.1.1-2971
-C: cccamfree.camdvr.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
 C: cccam4sat.accesscam.org 15000 cccam-ZEE cccam4sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 27000 4c1b5j01 cardserver-sat.com # v2.1.1-2971
 C: x13.kcccam.me 62000 95722492 78518602 # v2.0.11-2892
@@ -112,7 +109,6 @@ C: kinghd.info 35500 kingd628 hd785b # v2.0.11-2892
 C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
 C: free.cccamia.com 18000 qa9x1z CCcamia.com # v2.3.0-3367
 C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
-C: cccamfree.camdvr.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
 C: cccam4sat.accesscam.org 15000 cccam-Z7 cccam4sat.com # v2.1.1-2971
 C: 31.40.218.2 1003 947gowur efxnho0q # v2.1.1-2971
 C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
@@ -256,6 +252,28 @@ C: free.cccamiptv.club 13000 j1shzu cccamiptv.tv # v2.3.0-3367
 C: free.cccamia.com 18000 ezcm2z CCcamia.com # v2.3.0-3367
 C: cccam4cs.ooguy.com 23000 wtxmj26 www.cccam-cs.com # v2.1.1-2971
 C: cccam4cs.ooguy.com 23000 qdr0mrh www.cccam-cs.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 n7373q cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 qjailk cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 c6wts4 cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 h181iq cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 pm9sfj cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 97i30u cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 sr7hk8 cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 45x8x2 cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 19ww0t cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 k3s9sd cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 25000 muj88d cccam4sat.com # v2.1.1-2971
+N: cccam4sat.accesscam.org 35000 sr7hk8 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 muj88d cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 97i30u cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 45x8x2 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 h181iq cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 k3s9sd cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 pm9sfj cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 qjailk cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 n7373q cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 19ww0t cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: cccam4sat.accesscam.org 35000 c6wts4 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4cs.ooguy.com 33000 f5q0smp www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4cs.ooguy.com 33000 hg23x49 www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4cs.ooguy.com 33000 xk4p5kl www.cccam-cs.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
