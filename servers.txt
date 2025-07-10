@@ -263,6 +263,7 @@ C: cccamfree.camdvr.org 25000 45x8x2 cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 19ww0t cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 k3s9sd cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 muj88d cccam4sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971
 N: cccam4sat.accesscam.org 35000 sr7hk8 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 muj88d cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 97i30u cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
