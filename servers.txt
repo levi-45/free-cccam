@@ -263,7 +263,16 @@ C: cccamfree.camdvr.org 25000 45x8x2 cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 19ww0t cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 k3s9sd cccam4sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 25000 muj88d cccam4sat.com # v2.1.1-2971
-C: cccamfree.camdvr.org 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971
+C: 194.163.153.145 14000 occcam www.cardsharing-sat.com # v2.1.1-2971
+C: cardsharing-sat.gleeze.com 14000 occcam www.cardsharing-sat.com # v2.1.1-2971
+C: cccam4sat.accesscam.org 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971
+C: cccam4allsat.giize.com 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971
+C: cardserver-sat.camdvr.org 12000 Card_sat9 cardserver-sat.com # v2.1.1-2971
+C: cccamfree.camdvr.org 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971 
+C: fast.clines.cc 17000 yhzjngvg gyM6P679us # v2.3.0-3367
+C: cccam4hd.casacam.net 15000 cccam91 cccam4sat.com # v2.1.1-2971
+C: cccam4allsat.giize.com 15000 cccam91 cccam4sat.com # v2.1.1-2971
+C: kinghd.top 12000 299219 605690 # v2.3.0-3367
 N: cccam4sat.accesscam.org 35000 sr7hk8 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 muj88d cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 97i30u cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
