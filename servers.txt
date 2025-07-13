@@ -271,8 +271,30 @@ C: cardserver-sat.camdvr.org 12000 Card_sat9 cardserver-sat.com # v2.1.1-2971
 C: cccamfree.camdvr.org 15000 cccam4Kkt cccam4sat.com # v2.1.1-2971 
 C: fast.clines.cc 17000 yhzjngvg gyM6P679us # v2.3.0-3367
 C: cccam4hd.casacam.net 15000 cccam91 cccam4sat.com # v2.1.1-2971
-C: cccam4allsat.giize.com 15000 cccam91 cccam4sat.com # v2.1.1-2971
 C: kinghd.top 12000 299219 605690 # v2.3.0-3367
+C: cccam-cs.ddnsgeek.com 13000 cccamvtv www.cccam-cs.com # v2.1.1-2971
+C: cccam4cs.ooguy.com 13000 cccamvtv www.cccam-cs.com # v2.1.1-2971
+C: cccam4allsat.giize.com 15000 cccam91 cccam4sat.com # v2.1.1-2971
+C: cccam4hd.casacam.net 15000 cccam91 cccam4sat.com # v2.1.1-2971 
+C: cccam4cs.ooguy.com 13000 cccamtk www.cccam-cs.com # v2.1.1-2971
+C: 84.72.142.157 19730 Belu_CH 29_01_9912 # v2.0.11-2892
+C: 193.34.144.135 53053 bokipan geoforum # v2.0.11-2892
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: jeegrobot2.mypets.ws 19730 Belu_CH 29_01_2010 # v2.0.11-2892
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: quiriquiqui.zapto.org 12001 cash freecash # v2.3.0-2.3.
+C: jeegrobot2.mypets.ws 19730 Belu_CH 31_01_0028 # v2.0.11-2892
+C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
+C: cccam-cs.ddnsgeek.com 13000 cccamvtv www.cccam-cs.com # v2.1.1-2971 
+N: 51.15.46.243 10200 64 64 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:41200,42300,50b00,50f00,60a00,60c00
+N: 185.129.103.22 6001 652866877 33454953 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200
+N: s7.torbrand.tv 704 bufon55555 04122008 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: my-tv.biz 4010 USA Terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:42300
+N: my-tv.biz 4051 USA--Europe--ISRAEL Holocaust_Kids 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00
+N: 51.15.46.243 4004 USA--Europe--ISRAEL Holocaust_Kids 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
+N: my-tv.biz 10093 11 11 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: 51.15.46.243 9000 USA--Europe--ISRAEL KILLERS_Child 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
+N: 51.15.46.243 9014 14 14 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
 N: cccam4sat.accesscam.org 35000 sr7hk8 cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 muj88d cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
 N: cccam4sat.accesscam.org 35000 97i30u cccam4sat.com 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
