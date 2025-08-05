@@ -297,6 +297,22 @@ C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
 C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
 C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
 C: cccam-cs.ddnsgeek.com 13000 cccamsat www.cccam-cs.com # v2.1.1-2971
+C: 66.248.206.117 22503 60hycam262 merz11 # v2.3.0-3367
+C: dhoom.org 32000 1dayv8b 2021 # v2.0.11-2892
+C: free.cccamia.com 18000 ispfxt CCcamia.com # v2.3.0-3367
+C: a1.egygolds.xyz 17100 rtqc24zf 955i8yj8 # v2.0.11-2892
+C: a6.egygolds.xyz 17600 rtqc24zf 955i8yj8 # v2.0.11-2892
+C: a7.egygolds.xyz 17700 rtqc24zf 955i8yj8 # v2.0.11-2892
+C: a5.egygolds.xyz 17500 rtqc24zf 955i8yj8 # v2.0.11-2892
+C: a8.egygolds.xyz 17800 rtqc24zf 955i8yj8 # v2.0.11-2892
+C: x18.kcccam.cc 17000 36279434 17568901 # v2.0.11-2892
+C: cccam.ugeen.live 28000 chamloul azertyuiop0123456789 # v2.0.11-2892
+C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: cccam-cs.ddnsgeek.com 13000 cccamsat www.cccam-cs.com # v2.1.1-2971
+N: 51.15.46.243 4002 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
+N: 51.15.46.243 9014 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
 N: 51.15.46.243 4002 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
 N: 51.15.46.243 9014 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
 N: my-tv.biz 4002 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
