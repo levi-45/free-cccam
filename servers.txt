@@ -40,10 +40,17 @@ C: f3.kcccam.cc 20258 2340869 kcccam.org # v2.0.11-2892
 C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
 C: onemonth.hopto.org 14514 enjoyit freemonth # v2.3.0-3367
-C: 86.106.181.249 12000 free free # v2.3.2-4000
 C: free.cccamia.com 18000 r5s8tu CCcamia.com
 C: free.CCcamhub.Com 14200 lp9hfq CCcamhub.Com
-C: free.cccam-premium.pro 15014 52bd4j cccam-premium.pro 
+C: free.cccam-premium.pro 15014 52bd4j cccam-premium.pro
+C: s2.cccampri.me 11999 78794940 cccampri # vr100rc16-2892
+C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
+C: nassimbejaia1.hopto.org 15003 259458 nassim # v2.0.11-2892
+C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
+C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
+C: x18.kcccam.cc 17000 36279434 17568901 # v2.0.11-2892
+C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
+C: 86.106.181.249 12000 free free # v2.3.2-4000 
 N: my-tv.biz 4002 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
 N: my-tv.biz 9012 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
 N: my-tv.biz 9014 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
