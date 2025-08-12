@@ -50,7 +50,11 @@ C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
 C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
 C: x18.kcccam.cc 17000 36279434 17568901 # v2.0.11-2892
 C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
-C: 86.106.181.249 12000 free free # v2.3.2-4000 
+C: 86.106.181.249 12000 free free # v2.3.2-4000
+C: free.cccamiptv.club 13000 xq1cca cccamiptv.tv # v2.3.0-3367
+C: free.cccamiptv.club 13000 b8yrym cccamiptv.tv # v2.3.0-3367
+C: free.cccamiptv.club 13000 z1wby3 cccamiptv.tv # v2.3.0-3367
+N: server52.biz 6001 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200 
 N: my-tv.biz 4002 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
 N: my-tv.biz 9012 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
 N: my-tv.biz 9014 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
