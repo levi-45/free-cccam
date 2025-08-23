@@ -78,6 +78,11 @@ C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
 C: cccam4cs.ooguy.com 13000 recccam www.cccam-cs.com # v2.1.1-2971
 C: cardsharing-sat.gleeze.com 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
 C: cardserver-sat.camdvr.org 12000 cardserver-sat5 cardserver-sat.com # v2.1.1-2971
+C: s2.cccampri.me 12666 99069076 cccampri # vr100rc16-2892
+C: free.cccamiptv.club 13000 0u96h2 cccamiptv.tv # v2.3.0-3367
+C: free.cccamia.com 18000 ljzm2q CCcamia.com # v2.3.0-3367
+C: clinehub.com 16500 freeb981 cccamb0c2 # v2.0.11-2892
+C: free.cccam.net 53734 dONl9V1s cccam.net # v2.1.1-2971
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
 N: server52.biz 6017 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1838:0
 N: my-tv.biz 4002 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
