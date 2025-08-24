@@ -1,95 +1,46 @@
-C: cardserver-sat.camdvr.org 12000 Card_sat99 cardserver-sat.com # v2.1.1-2971
-C: onemonth.hopto.org 14514 enjoyit freemonth # v2.3.0-3367
-C: t2.cccambird.com 12111 57957018 cccambird # vr100rc16-2892
-C: top4.zapto.org 38400 83jcobhc cwoxl40g # v2.3.0-3367 
-C: kinghd.info 18500 king2ca7 hd316a # v2.0.11-2892
-C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
-C: cccam-cs.ddnsgeek.com 13000 cccamsat www.cccam-cs.com # v2.1.1-2971 
-C: free.cccamiptv.club 13000 2m0jql cccamiptv.tv # v2.3.0-3367
-C: f3.kcccam.cc 20258 8164023 kcccam.org # v2.0.11-2892
-C: srv1.xtrmsp.com 54501 11858 xtream # v2.1.1-2971
-C: 66.248.206.117 22503 60hycam262 merz11 # v2.3.0-3367
-C: dhoom.org 32000 1dayv8b 2021 # v2.0.11-2892
-C: free.cccamia.com 18000 ispfxt CCcamia.com # v2.3.0-3367
-C: a1.egygolds.xyz 17100 rtqc24zf 955i8yj8 # v2.0.11-2892
-C: a6.egygolds.xyz 17600 rtqc24zf 955i8yj8 # v2.0.11-2892
-C: a7.egygolds.xyz 17700 rtqc24zf 955i8yj8 # v2.0.11-2892
-C: a5.egygolds.xyz 17500 rtqc24zf 955i8yj8 # v2.0.11-2892
-C: a8.egygolds.xyz 17800 rtqc24zf 955i8yj8 # v2.0.11-2892
-C: x18.kcccam.cc 17000 36279434 17568901 # v2.0.11-2892
-C: cccam.ugeen.live 28000 chamloul azertyuiop0123456789 # v2.0.11-2892
-C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
-C: cccam-cs.ddnsgeek.com 13000 cccamsat www.cccam-cs.com # v2.1.1-2971
-C: cccamvip.xyz 13000 131973 353855 # v2.3.2-4000
-C: egygold.co 22504 60hycam241 merz11 # v2.1.1-2971
-C: egygold.co 22504 60hycam278 merz05 # v2.1.1-2971
-C: egygold.co 22504 60hycam278 merz27 # v2.1.1-2971
-C: egygold.co 22504 60hycam274 merz31 # v2.1.1-2971
-C: egygold.co 22504 60hycam278 merz41 # v2.1.1-2971
-C: free.cccamia.com 18000 togidc CCcamia.com # v2.3.0-3367
-C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
-C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
-C: cccam-cs.ddnsgeek.com 13000 cccamsat www.cccam-cs.com # v2.1.1-2971
-C: f3.kcccam.cc 20258 2340869 kcccam.org # v2.0.11-2892
-C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: vmi2134.contabo.host 53053 bokipan geoforum # v2.0.11-2892
-C: onemonth.hopto.org 14514 enjoyit freemonth # v2.3.0-3367
-C: free.cccamia.com 18000 r5s8tu CCcamia.com
-C: free.CCcamhub.Com 14200 lp9hfq CCcamhub.Com
-C: free.cccam-premium.pro 15014 52bd4j cccam-premium.pro
-C: s2.cccampri.me 11999 78794940 cccampri # vr100rc16-2892
-C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
-C: nassimbejaia1.hopto.org 15003 259458 nassim # v2.0.11-2892
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: x18.kcccam.cc 17000 36279434 17568901 # v2.0.11-2892
-C: 151.115.73.226 12001 west bestpsw # v2.3.0-2.3.
-C: 86.106.181.249 12000 free free # v2.3.2-4000
-C: free.cccamiptv.club 13000 xq1cca cccamiptv.tv # v2.3.0-3367
-C: free.cccamiptv.club 13000 b8yrym cccamiptv.tv # v2.3.0-3367
-C: free.cccamiptv.club 13000 z1wby3 cccamiptv.tv # v2.3.0-3367
-C: cardserver-sat.camdvr.org 12000 cardserver-sat13 cardserver-sat.com # v2.1.1-2971
-C: storesat.live 45005 storesat DeXd$LoM#eD8S # v2.0.11-2892 
-C: storesat.live 45005 storesat DeXd$LoM#eD8S # v2.0.11-2892
-C: free.cccam-premium.pro 15014 wrwwuo cccam-premium.pro # vr100rc30-2892
-C: free.cccam-premium.pro 15014 w2h7t9 cccam-premium.pro # vr100rc30-2892
-C: free.cccam-premium.pro 15014 6u2zem cccam-premium.pro # vr100rc30-2892
-C: free.cccam-premium.pro 15014 344nj9 cccam-premium.pro # vr100rc30-2892
-C: cccam4cs.ooguy.com 23000 ybbsp31 www.cccam-cs.com # v2.1.1-2971
-C: cccam4cs.ooguy.com 23000 aaf3h38 www.cccam-cs.com # v2.1.1-2971
-C: free.cccamia.com 18000 ocxv8m CCcamia.com # v2.3.0-3367
-C: 194.163.153.145 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
 C: cardsharing-sat.camdvr.org 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: cardsharing-sat.gleeze.com 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: cccam.ugeen.live 28000 RAM73 1411197369mbif69 # v2.0.11-2892
-C: t2.cccambird.com 12111 06998840 cccambird # vr100rc16-2892
-C: cardsharing-sat.camdvr.org 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: 194.163.153.145 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: f3.kcccam.cc 20258 1749896 kcccam.org # v2.0.11-2892
-C: 31.40.218.2 1003 mhisw9nb xmka1hfa # v2.1.1-2971
-C: 31.40.218.2 12000 3093 3093 # v2.1.1-2971
-C: 31.40.218.2 13000 3093 3093 # v2.1.1-2971
-C: cccam4cs.ooguy.com 13000 recccam www.cccam-cs.com # v2.1.1-2971
-C: cardsharing-sat.gleeze.com 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: cardserver-sat.camdvr.org 12000 cardserver-sat5 cardserver-sat.com # v2.1.1-2971
+C: dhoom.org 32000 1dayrpd 2021 # v2.0.11-2892
+C: s1.cccambtc.com 22000 azeede5 cccambtc.com # v2.0.11-2892
+C: clinehub.com 26000 975319 753675 # v2.0.11-2892
+C: cardsharing-sat.gleeze.com 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971 
+C: nassimbejaia1.hopto.org 15004 858168 nassim # v2.0.11-2892
+C: linksat.cc 23600 sharinginfopro Dwo30185k # v2.0.11-2892
+C: 176.118.198.174 17000 tvcccam cccam-nl.com # v2.1.1-2971
+C: t2.cccambird.com 21222 83419233 cccambird # vr100rc16-2892
+C: f3.kcccam.cc 20258 4553384 kcccam.org # v2.0.11-2892
+C: cccam-cs.ddnsgeek.com 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
+C: free.cccambtc.com 17000 0ofdfi cccambtc.com # v2.0.11-2892
+C: clinehub.com 16500 freec702 cccam780b # v2.0.11-2892
+C: 176.118.198.174 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
 C: s2.cccampri.me 12666 99069076 cccampri # vr100rc16-2892
 C: free.cccamiptv.club 13000 0u96h2 cccamiptv.tv # v2.3.0-3367
 C: free.cccamia.com 18000 ljzm2q CCcamia.com # v2.3.0-3367
 C: clinehub.com 16500 freeb981 cccamb0c2 # v2.0.11-2892
-C: free.cccam.net 53734 dONl9V1s cccam.net # v2.1.1-2971
+C: free.cccam.net 53734 dONl9V1s cccam.net # v2.1.1-2971 
+C: 176.118.198.174 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
+C: 176.118.198.174 17000 tvcccam cccam-nl.com # v2.1.1-2971
+C: f2.kcccam.cc 20458 2585669 kcccam.org # v2.0.11-2892
+C: bosscccam.nowddns.com 26210 F766tH5bb3 BosS-ccCAm.coM
+C: bosscccam.nowddns.com 26210 VZ1tK70AZT BosS-ccCAm.coM
+C: free.cccam-full.com 10100 8g1r9d9Yo5 www.cccam-full.com # v2.0.11-2892
+C: free.cccamgalaxy.com 39000 ozerjl cccamgalaxy.com
+C: free.CCcamhub.Com 14200 uwp2ey CCcamhub.Com
+C: free.CCcamhub.Com 14200 vam8dw CCcamhub.Com
+C: free.cccamia.com 18000 lz33w5 CCcamia.com
+C: free.cccamiptv.club 13000 1emfxa cccamiptv.tv
+C: free.cccamiptv.club 13000 6gbese cccamiptv.tv
+C: free.cccamiptv.club 13000 vs3pmw cccamiptv.tv
+C: free.cccamiptv.club 13000 wd3c6i cccamiptv.tv
+C: free.cccamiptv.club 13000 ydghky cccamiptv.tv
+C: free.cccam.net 33889 n2DBJVoL cccam.net
+C: free.cccam-premium.pro 15014 nf82f3 cccam-premium.pro
+C: free.cccamsate.com 22491 1Bdzi79e cccamsate
+C: free.cccamsate.com 42954 q1z2WdGc cccamsate
+C: infosat.satunivers.tv 50000 eqteqt satunivers.net
+C: infosat.satunivers.tv 50000 fb4fb4 satunivers.net
+C: server.satunivers.tv 50000 eqteqt satunivers.net
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
 N: server52.biz 6017 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1838:0
-N: my-tv.biz 4002 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: my-tv.biz 9012 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: my-tv.biz 9114 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 9014 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 9112 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
 N: server52.biz 6020 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1802:0
 N: server52.biz 6019 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1813:68,0
@@ -113,29 +64,5 @@ N: server52.biz 6012 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 1
 N: server52.biz 6011 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 098d:0
 N: server52.biz 6010 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0963:0
 N: server52.biz 6001 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200 
-N: my-tv.biz 4002 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: my-tv.biz 9012 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: my-tv.biz 9014 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 9112 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: my-tv.biz 9114 USA+ISRA They_kill_innocent_people 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: srv44.org 6001 6424001651 88533487 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50f00,60200,50800,50c00,41200,61200
-N: 51.15.46.243 4002 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: 51.15.46.243 9014 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: 51.15.46.243 4002 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: 51.15.46.243 9014 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0 
-N: 51.15.46.243 4002 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: 51.15.46.243 9014 EAGLE-SAT 2025 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 4002 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: my-tv.biz 9012 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: my-tv.biz 9014 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 9112 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: my-tv.biz 9114 Trump-is-a-terrorist USA-terrorist 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 10092 TAWFIQ-BEKHOUCHE HAJJ 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
-N: my-tv.biz 10088 TAWFIQ-BEKHOUCHE HAJJ 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
-N: 51.15.46.243 4002 hajj-tawfiq bekhouche 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0940:0
-N: 51.15.46.243 9014 hajj-tawfiq bekhouche 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
-N: my-tv.biz 10093 TAWFIQ-BEKHOUCHE HAJJ 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:50b00,50f00,60a00,60c00
-N: 51.15.46.243 9012 hajj-tawfiq bekhouche 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: 51.15.46.243 9112 hajj-tawfiq bekhouche 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:68
-N: 51.15.46.243 9114 hajj-tawfiq bekhouche 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0
+
 
