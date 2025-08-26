@@ -39,6 +39,11 @@ C: free.cccamsate.com 42954 q1z2WdGc cccamsate
 C: infosat.satunivers.tv 50000 eqteqt satunivers.net
 C: infosat.satunivers.tv 50000 fb4fb4 satunivers.net
 C: server.satunivers.tv 50000 eqteqt satunivers.net
+C: free.cccambtc.com 17000 4bnae4 cccambtc.com # v2.0.11-2892
+C: free.cccamiptv.club 13000 4pce4h cccamiptv.tv # v2.3.0-3367
+C: cccam4hd.casacam.net 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
+C: cccam4allsat.giize.com 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
+C: cccam4sat.accesscam.org 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
 N: server52.biz 6017 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1838:0
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
