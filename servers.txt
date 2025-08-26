@@ -1,49 +1,23 @@
-C: cardsharing-sat.camdvr.org 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971
-C: dhoom.org 32000 1dayrpd 2021 # v2.0.11-2892
-C: s1.cccambtc.com 22000 azeede5 cccambtc.com # v2.0.11-2892
-C: clinehub.com 26000 975319 753675 # v2.0.11-2892
-C: cardsharing-sat.gleeze.com 14000 xcccam www.cardsharing-sat.com # v2.1.1-2971 
-C: nassimbejaia1.hopto.org 15004 858168 nassim # v2.0.11-2892
-C: linksat.cc 23600 sharinginfopro Dwo30185k # v2.0.11-2892
-C: 176.118.198.174 17000 tvcccam cccam-nl.com # v2.1.1-2971
-C: t2.cccambird.com 21222 83419233 cccambird # vr100rc16-2892
-C: f3.kcccam.cc 20258 4553384 kcccam.org # v2.0.11-2892
-C: cccam-cs.ddnsgeek.com 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
-C: free.cccambtc.com 17000 0ofdfi cccambtc.com # v2.0.11-2892
-C: clinehub.com 16500 freec702 cccam780b # v2.0.11-2892
-C: 176.118.198.174 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
-C: s2.cccampri.me 12666 99069076 cccampri # vr100rc16-2892
-C: free.cccamiptv.club 13000 0u96h2 cccamiptv.tv # v2.3.0-3367
-C: free.cccamia.com 18000 ljzm2q CCcamia.com # v2.3.0-3367
-C: clinehub.com 16500 freeb981 cccamb0c2 # v2.0.11-2892
-C: free.cccam.net 53734 dONl9V1s cccam.net # v2.1.1-2971 
-C: 176.118.198.174 13000 re-cccam www.cccam-cs.com # v2.1.1-2971
-C: 176.118.198.174 17000 tvcccam cccam-nl.com # v2.1.1-2971
-C: f2.kcccam.cc 20458 2585669 kcccam.org # v2.0.11-2892
-C: bosscccam.nowddns.com 26210 F766tH5bb3 BosS-ccCAm.coM
-C: bosscccam.nowddns.com 26210 VZ1tK70AZT BosS-ccCAm.coM
-C: free.cccam-full.com 10100 8g1r9d9Yo5 www.cccam-full.com # v2.0.11-2892
-C: free.cccamgalaxy.com 39000 ozerjl cccamgalaxy.com
-C: free.CCcamhub.Com 14200 uwp2ey CCcamhub.Com
-C: free.CCcamhub.Com 14200 vam8dw CCcamhub.Com
-C: free.cccamia.com 18000 lz33w5 CCcamia.com
-C: free.cccamiptv.club 13000 1emfxa cccamiptv.tv
-C: free.cccamiptv.club 13000 6gbese cccamiptv.tv
-C: free.cccamiptv.club 13000 vs3pmw cccamiptv.tv
-C: free.cccamiptv.club 13000 wd3c6i cccamiptv.tv
-C: free.cccamiptv.club 13000 ydghky cccamiptv.tv
-C: free.cccam.net 33889 n2DBJVoL cccam.net
-C: free.cccam-premium.pro 15014 nf82f3 cccam-premium.pro
-C: free.cccamsate.com 22491 1Bdzi79e cccamsate
-C: free.cccamsate.com 42954 q1z2WdGc cccamsate
-C: infosat.satunivers.tv 50000 eqteqt satunivers.net
-C: infosat.satunivers.tv 50000 fb4fb4 satunivers.net
-C: server.satunivers.tv 50000 eqteqt satunivers.net
-C: free.cccambtc.com 17000 4bnae4 cccambtc.com # v2.0.11-2892
-C: free.cccamiptv.club 13000 4pce4h cccamiptv.tv # v2.3.0-3367
-C: cccam4hd.casacam.net 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
-C: cccam4allsat.giize.com 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
-C: cccam4sat.accesscam.org 15000 cccam-AHD cccam4sat.com # v2.1.1-2971
+C: free.cccambtc.com 17000 4bnae4 cccambtc.com
+C: nassimbejaia1.hopto.org 15004 858168 nassim 
+C: clinehub.com 26000 975319 753675
+C: 31.40.218.2 13000 3093 3093
+C: 31.40.218.2 1003 mhisw9nb xmka1hfa
+C: 31.40.218.2 12000 3093 3093
+C: egygold.co 20002 1LglG9XdV hX4GNM35N
+C: egygold.co 20004 1LglG9XdV hX4GNM35N
+C: egygold.co 20005 1LglG9XdV hX4GNM35N
+C: egygold.co 20006 1LglG9XdV hX4GNM35N
+C: egygold.co 20003 1LglG9XdV hX4GNM35N
+C: egygold.co 20001 1LglG9XdV hX4GNM35N
+C: egygold.co 11000 1LglG9XdV hX4GNM35N
+C: s1.cccambtc.com 22000 azeede5 cccambtc.com
+C: x18.kcccam.cc 17000 36279434 17568901
+C: a1.egygolds.xyz 17100 rtqc24zf 955i8yj8
+C: a6.egygolds.xyz 17600 rtqc24zf 955i8yj8
+C: a7.egygolds.xyz 17700 rtqc24zf 955i8yj8
+C: a8.egygolds.xyz 17800 rtqc24zf 955i8yj8
+C: egygold.net 51005 24tbnet55 prem41
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
 N: server52.biz 6017 858519320 85813357 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1838:0
 N: ser91.ddns.net 4031 2server 2pass 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1843:0
