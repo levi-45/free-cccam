@@ -16,6 +16,4 @@ C: a7.egygolds.xyz 17700 rtqc24zf 955i8yj8
 C: a8.egygolds.xyz 17800 rtqc24zf 955i8yj8
 C: egygold.net 51005 24tbnet55 prem41
 C: s1.cccambtc.com 22000 azeede5 cccambtc.com
-C: t2.cccambird.com 22111 86439158 cccambird
-C: s1.fullcccam.eu 14500 vkd81 n49ma
-C: xy.cccamfrei.com 15700 s6581si pz6xr
+C: vmi44491.contaboserver.net 19000 sub999410 ypy93z
